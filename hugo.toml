@@ -1,0 +1,12 @@
+baseURL = 'https://danaosmc.github.io/' 
+languageCode = 'en-us'
+theme = 'anatole'
+enableEmoji = true
+
+
+[params]
+title = 'Danaos Wiki'
+author = 'Danaos Team'
+description = 'Knowledge base for Danaos Software'
+
+
